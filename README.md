@@ -1,5 +1,4 @@
 # Multiply two 72 bit integers in Assembly
-Cmpe 230 Systems programming project, Bogazici University 
 
 This program takes two 18-digit hex numbers as user input, multiplies them and gives output. 
 
